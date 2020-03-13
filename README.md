@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ce projet montre comment créer un slide Show avec "react-slideshow-image".
 
 ## Available Scripts
 
